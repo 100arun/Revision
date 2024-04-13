@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-13T12:06:29 IST" name="Suite" finished-at="2024-04-13T12:06:41 IST" duration-ms="11934">
+    <groups>
+    </groups>
+    <test started-at="2024-04-13T12:06:29 IST" name="Test" finished-at="2024-04-13T12:06:41 IST" duration-ms="11934">
+      <class name="comm.automation.revision.jenkinsupload">
+        <test-method is-config="true" signature="systemrun()[pri:0, instance:comm.automation.revision.jenkinsupload@770d3326]" started-at="2024-04-13T12:06:29 IST" name="systemrun" finished-at="2024-04-13T12:06:32 IST" duration-ms="2214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- systemrun -->
+        <test-method signature="testcase1()[pri:0, instance:comm.automation.revision.jenkinsupload@770d3326]" started-at="2024-04-13T12:06:32 IST" name="testcase1" finished-at="2024-04-13T12:06:34 IST" duration-ms="2867" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:comm.automation.revision.jenkinsupload@770d3326]" started-at="2024-04-13T12:06:34 IST" name="teardown" finished-at="2024-04-13T12:06:34 IST" duration-ms="61" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="systemrun()[pri:0, instance:comm.automation.revision.jenkinsupload@770d3326]" started-at="2024-04-13T12:06:34 IST" name="systemrun" finished-at="2024-04-13T12:06:36 IST" duration-ms="1553" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- systemrun -->
+        <test-method signature="testcase2()[pri:0, instance:comm.automation.revision.jenkinsupload@770d3326]" started-at="2024-04-13T12:06:36 IST" name="testcase2" finished-at="2024-04-13T12:06:37 IST" duration-ms="1362" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:comm.automation.revision.jenkinsupload@770d3326]" started-at="2024-04-13T12:06:37 IST" name="teardown" finished-at="2024-04-13T12:06:37 IST" duration-ms="74" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="systemrun()[pri:0, instance:comm.automation.revision.jenkinsupload@770d3326]" started-at="2024-04-13T12:06:37 IST" name="systemrun" finished-at="2024-04-13T12:06:39 IST" duration-ms="1549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- systemrun -->
+        <test-method signature="testcase3()[pri:0, instance:comm.automation.revision.jenkinsupload@770d3326]" started-at="2024-04-13T12:06:39 IST" name="testcase3" finished-at="2024-04-13T12:06:41 IST" duration-ms="2149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase3 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:comm.automation.revision.jenkinsupload@770d3326]" started-at="2024-04-13T12:06:41 IST" name="teardown" finished-at="2024-04-13T12:06:41 IST" duration-ms="75" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- comm.automation.revision.jenkinsupload -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
